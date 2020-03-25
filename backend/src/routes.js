@@ -18,9 +18,7 @@ routes.post('/ongs', async (request, response) => {
         city,
         uf,
     })
-
-    console.log(data);
-
+    
     return response.json({ id });
 });
 
