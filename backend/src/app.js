@@ -12,15 +12,6 @@ app.use(errors());
 
 module.exports = app;
 
-
-
-
-
-
-
-
-
-
 /**
 * Rota & /recurso
 */
